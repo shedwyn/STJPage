@@ -51,6 +51,8 @@ section {
 
 #img-logo {
   max-height: 200px;
+  padding-top: .4em;
+  padding-bottom: .4em;
 }
 
 footer {
